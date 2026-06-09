@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rasha Shamseddine</h1>
+<h1 align="center">Hi 👋, I'm Rasha</h1>
 <h3 align="center">I have a PhD in Microwave, but passionate in learning to code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashashd&label=Profile%20views&color=0e75b6&style=flat" alt="rashashd" /> </p>
