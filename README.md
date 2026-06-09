@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashashd&label=Profile%20views&color=0e75b6&style=flat" alt="rashashd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashashd" alt="rashashd" /></a> </p>
-
 - 🌱 I’m currently learning **Advanced RAG and SDDs**
 
 - 📫 How to reach me **r.a.sha@windowslive.com**
