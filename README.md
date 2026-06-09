@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Pantera, an Agentic AI for Pharmacovigilance**
 
-- 🌱 I’m currently learning **Advanced RAG and SDDs**
+- 🌱 I’m currently learning **Complex RAG pipelines and MCPs**
 
 - 📫 How to reach me **r.a.sha@windowslive.com**
 
