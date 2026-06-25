@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashashd&label=Profile%20views&color=0e75b6&style=flat" alt="rashashd" /> </p>
 
-- 🔭 I’m currently working on **Pantera, an Agentic AI for Pharmacovigilance**
+- 🔭 I’m currently working on **Vespera, an Agentic AI for Pharmacovigilance**
 
 - 🌱 I’m currently learning **Complex RAG pipelines and MCPs**
 
